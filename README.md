@@ -1,18 +1,17 @@
+# CodeQuest
+## CodeQuest - A Programming Contests and Hackathons Platform
 
-# Microsoft Clone Web Application
-
-This is a Microsoft Clone web application made using HTML, Tailwind CSS, and JavaScript. The application is a replica of Microsoft's website and showcases a similar layout and design.
+This is a comprehensive platform that serves as a one-stop resource for programming enthusiasts, providing detailed information about various programming contests and hackathons.
 
 ## Features
 
-- Replica of Microsoft's website with similar layout and design.
-- Responsive design to ensure compatibility on different devices.
-- Interactive user interface with smooth animations.
-- Tailwind CSS used for styling, providing a modern and visually appealing look.
+- Fetches data from an API to display information about upcoming programming contests and hackathons.
+- Provides a user-friendly interface for participants to explore events based on various platforms.
+- Interactive and responsive user experience for seamless exploration of contests and hackathons.
+- Detailed information about each event, including date, time, platform, and registration links.
 
 ## Technologies Used
 
 - HTML
 - Tailwind CSS
 - JavaScript
-
